@@ -1,1 +1,2 @@
-# mpc
+# MPC 
+# Model Predictive Control
